@@ -24,7 +24,7 @@ A web application with authentication and a dashboard.
 ## Clone Repo
 ```bash
 git clone https://github.com/Gouranga123456789/primetrade
-cd PrimeTrade
+cd primetrade
 ```
 
 ## Setup Backend and run
@@ -44,5 +44,6 @@ cd client
 npm install
 npm run dev
 ```
+
 
 
