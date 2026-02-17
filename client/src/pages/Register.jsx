@@ -33,8 +33,6 @@ export default function Register() {
 
     try {
       await register(form);
-
-      // IMPORTANT: don't keep them logged in after registering
       logout();
 
       navigate("/login");
