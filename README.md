@@ -1,6 +1,6 @@
 # PrimeTrade Frontend Developer Task
 
-A full-stack web app with authentication and a dashboard.
+A web application with authentication and a dashboard.
 
 ## Tech Stack
 - React (Vite)
@@ -44,4 +44,5 @@ cd client
 npm install
 npm run dev
 ```
+
 
