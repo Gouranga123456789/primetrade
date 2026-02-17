@@ -55,8 +55,6 @@ export default function TaskItem({ task, setTasks }) {
           {err}
         </div>
       )}
-
-      {/* Top row: toggle + actions */}
       <div className="flex items-start justify-between gap-3">
         <button
           onClick={toggleComplete}
