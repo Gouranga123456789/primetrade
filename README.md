@@ -21,9 +21,9 @@ A full-stack web app with authentication and a dashboard.
 
 ## Setup Instructions
 
-### 1) Clone Repo
+## Clone Repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gouranga123456789/primetrade
 cd PrimeTrade
 ```
 
@@ -33,7 +33,10 @@ cd server
 npm install
 npm run dev
 ```
-
+## Install MongoDB Compass (GUI)
+This helps you visually check:
+    - users collection
+    - tasks collection
 
 ## Setup Frontend and run
 ```bash
@@ -41,3 +44,4 @@ cd client
 npm install
 npm run dev
 ```
+
